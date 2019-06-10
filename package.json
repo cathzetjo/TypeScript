@@ -1,0 +1,15 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "typescript testing",
+  "main": "app.js",
+  "dependencies": {
+    "tslint-config-airbnb": "^5.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Katerina Zhadko",
+  "license": "ISC"
+}
